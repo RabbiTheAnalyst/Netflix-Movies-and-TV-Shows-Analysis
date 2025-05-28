@@ -4,10 +4,11 @@
   <p>This project aims to analyze the Netflix movies and TV shows dataset to uncover insights about content trends, distribution, and popular genres. The analysis involves data cleaning and preprocessing using Python (Pandas), exploratory data analysis (EDA) with visualizations (Matplotlib & Seaborn), and the creation of an interactive dashboard using Power BI.</p>
 </div> 
 
-## 💾 Dataset
+## 💾 Dataset anad Dashboard
 
 The dataset used for this analysis is the **"Netflix Movies and TV Shows"**.
-* **Source:** [Netflix Movies and TV Shows DataSet](https://github.com/RabbiTheAnalyst/Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix_cleaned_data.csv)
+* **DataSet Source:**  [Netflix Movies and TV Shows DataSet](https://github.com/RabbiTheAnalyst/Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix_cleaned_data.csv)
+* **Power BI Dashboard:**  [See My Power Bi Dashboard](https://github.com/RabbiTheAnalyst/Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix_Dashboard.pbix)
 
 
 ## 🛠️ Tools & Technologies
